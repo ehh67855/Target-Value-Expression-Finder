@@ -1,4 +1,4 @@
-# ExpressionEvaluator
+# Target Value Expression Finder
 Calculates expressions using either arithmetic or bitwise operations to achieve a specific target value. 
 
 ## Description
